@@ -1,4 +1,4 @@
-### Hello world!
+### Hello world! 🌐
 
 I am a trained humanities guy with a professional background 
 in social media who fell in love with the world of code.
